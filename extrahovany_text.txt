@@ -1,0 +1,188 @@
+(cid:44)(cid:7)(cid:3)(cid:1)(cid:34)(cid:4)(cid:1)(cid:8)(cid:1)(cid:6)(cid:3)(cid:1)(cid:3)(cid:44)
+Číslo úvěrové smlouvy Verze dat žádosti Datum doručení
+1361471401 1
+Číslo smlouvy stavebního spoření
+7204023601
+(cid:88)(cid:46)(cid:48)(cid:51)(cid:46)(cid:49)(cid:52)(cid:46)(cid:49)(cid:45)(cid:46)(cid:88) (cid:88)(cid:78)(cid:45)(cid:47)(cid:51)(cid:88) (cid:88)(cid:46)(cid:45)(cid:52)(cid:48)(cid:50)(cid:52)(cid:53)(cid:45)(cid:88)
+1361471401 X026 10735780
+ŽÁDOST O POSKYTNUTÍ MEZIÚVĚRU/ÚVĚRU ZE STAVEBNÍHO SPOŘENÍ
+ČSOB Stavební spořitelna, a.s., sídlo: Radlická 333/150, 150 57 Praha 5, IČO: 492 41 397, zapsaná v obchodním rejstříku vedeném Městským
+soudem v Praze, sp. zn. B 2117 (dále jen „ČSOBS“), tel.: 225 225 225, internet: www.csobstavebni.cz, e-mail: info@csobstavebni.cz
+I. Osobní údaje žadatele/ů Osoba 1: Dlužník adresát
+Příjmení/Jméno Nezmar Filip
+Rodné číslo/Datum narození 9503230187 23.03.1995
+Místo narození: město/stát Praha 4 Česká republika
+Pohlaví/Státní občanství muž Česká republika
+2. Státní občanství/3. Státní občanství
+Rodinný stav/SJ svobodný(-á) Ne
+Průkaz totožnosti: druh a číslo Občanský průkaz; 217540223
+Vydal: stát; orgán/Platnost do Česká republika; ÚMČ PRAHA 4 29.07.2034
+Místo trvalého pobytu dle průkazu: ulice; číslo/PSČ; obec Na Vápence; 423 252 44; Psáry
+Místo trvalého pobytu dle průkazu: stát Česká republika
+Korespondenční adresa v ČR: ulice; číslo/PSČ; obec
+Stát bydliště/Měna státu bydliště Česká republika CZK
+Stát bydliště (uveďte stát, v němž máte bydliště déle než 1 rok) Česká republika
+Způsob současného bydlení/Délka pobytu v měsících 1 ve vlastním bytě/domě 120
+Telefon/E-mail 608238823 filip.nezmar@gmail.com
+Politicky exponovanou osobou podle zákona NE
+Nejvyšší dosažené vzdělání 6 Vysokoškolské bakalářské
+Povolání/Ekonomický sektor OSVČ, podnikatel 6 IT, právní a poradenská činnost
+IČO zaměstnavatele nebo OSVČ 02405873
+PSČ zaměstnavatele nebo místa podnikání 252 44
+Společníkem zaměstnavatele Nejsem
+Typ kontraktu 5 Ostatní
+Datum nástupu do zaměstnání nebo zahájení podnikání 04.12.2013
+Splácení dluhu z příjmu v: stát/měna Česká republika CZK
+Čistý příjem 100.000,00
+Zdroj příjmu 2 OSVČ
+Měsíční životní náklady domácnosti včetně nákladů na 12.500,00 1
+bydlení/Označení domácnosti
+Výše skutečných životních nákladů všech osob v domácnosti a všech nákladů na bydlení. Tzn., jedná se především o náklady na stravu, ošacení, školku,
+školu, dopravu, telefon, internet, energie, topení, nájem, léky, volnočasové aktivity, atp. Do částky se nezahrnují náklady na měsíční splátky úvěrů,
+kreditních karet a dalších nákladů uvedených na formuláři níže v části II. Závazky.
+Pro posouzení bonity bude počítáno s náklady, které uvedete. V případě, že budou nižší, než jsou částky životního minima a nákladů na bydlení
+stanovené ČSOBS, s přihlédnutím ke statistickým údajům Ministerstva práce a sociálních věcí, bude počítáno s náklady stanovenými ČSOBS.
+U osob ze stejné domácnosti platí, že náklady uvede každý za celou domácnost. Při posouzení bonity nebude do výpočtu vstupovat součet hodnot.
+II. Závazky
+Výše Úvěrový rámec Splátka Typ Od (název firmy)/Poznámka
+Osoba 1 2.549.825,00 0,00 10.650,00 Hypoteční úvěr hypotéční úvěr 01825955N
+Osoba 1 221.524,00 0,00 3.067,00 Osobní úvěr osobní úvěr 02972902U
+Osoba 1 142.235,00 0,00 2.782,00 Osobní úvěr osobní úvěr 03223570T
+III. Parametry meziúvěru/úvěru ze stavebního spoření
+A. Základní parametry
+Typ MÚ Topkredit
+Výše MÚ/Ú v Kč 7.000.000,00
+Tarifní varianta TrendPlus 30 03/21
+Zvýhodnění Standardní (bez zvýhodnění)
+Typ vlastnictví fi nancované nemovitosti osobní
+Bytová potřeba dlužníka
+Typ přeúvěrování
+B. Označení akce C . Financovaná nemovitost D . Zajištění
+Standardní mladí Číslo katastrálního území Č íslo LV Shodné zajištění NE
+736422 1544 Způsob zajištění Nemovitost
+Souhlasíte, že zaplatíte ČSOBS za provedení odhadu/ů
+nemovitosti/í částku/y dle aktuálně platného
+sazebníku úhrad. Výsledná částka k úhradě bude
+záviset na počtu nemovitostí, které budou dány do
+zástavy a typu nemovitostí (to ovlivňuje náklady na
+odhad). ČSOBS Vám může tuto úhradu prominout;
+v tom případě nebude následně částka k úhradě za
+odhad/y placená ČSOBS uvedena v úvěrové smlouvě.
+Pokud k uzavření úvěrové smlouvy nedojde, je ČSOBS
+oprávněna Vás k zaplacení vyzvat a stanovit
+přiměřenou lhůtu k zaplacení. Za odhad/y
+nemovitosti/í nám nebudete platit, pokud si jej/je
+objednáte přímo u odhadce ze seznamu odhadců
+ČSOBS dle Vašeho výběru a zaplatíte přímo Vámi
+vybranému odhadci.
+E. Účel dle zákona o stavebním spoření s příslušným typem nemovitosti
+koupě staršího/byt ve vlastnictví/družstevní
+F. Doplňkové produkty
+Osobní/běžný účet (BÚ) - TOP
+IV. Údaje o smlouvě o stavebním spoření - smlouva bude uzavřena resp. změny nabydou účinnosti společně s úvěrovou smlouvou
+Typ požadavku Založit
+Název marketingové akce
+Sjednáváme, že nedílnou součástí smlouvy, kterou uzavřeme nebo změníme za účelem poskytnutí úvěru na základě této žádosti, budou i podmínky
+marketingové akce uvedené výše v poli Název marketingové akce nebo níže v poli Doplňující informace. Svým podpisem níže potvrzujete, že jste
+se seznámil/a a převzal/a jste tyto podmínky, rozumíte jim, souhlasíte s nimi a zavazujete se je dodržovat.
+Nesplnění podmínek způsobí, že výhody akce nebudete moci čerpat.
+Pokud není vyplněn název akce, nebude smlouva zařazena do žádné marketingové akce.
+Státní podpora ANO
+Zvýhodnění pro smlouvu o stavebním spoření Standardní smlouva (bez zvýhodnění)
+Prohlášení o daňovém rezidenství (platba daně z příjmů) Jsem daňovým rezidentem na území ČR
+DIČ (daňové identifi kační číslo) 9503230187
+Důvod nesouladu adres
+Adresa pro identifi kaci daňového rezidenství
+(Ulice, č. domu, PSČ, obec, stát)
+V. Prohlášení a informace
+Souhlasíte s tím, že v průběhu jednání o poskytnutí úvěru můžeme domluvit změny některých parametrů či údajů uvedených v této žádosti.
+V případě změn pak budou závaznými údaji až ty uvedené v dalších dokumentech, jako jsou předsmluvní informace a zejména pak úvěrová
+smlouva. Bez vyhotovení nové žádosti se mohou měnit zejména údaje týkající se účelu poskytnutého úvěru, způsobu zajištění úvěru a požadavky
+na zapojení/parametry související smlouvy o stavebním spoření. Souhlasíte však, že ČSOBS bude oprávněna požadovat potvrzení některých změn
+podpisem nové žádosti, to se týká zejména údajů osvědčujících vaši úvěruschopnost.
+Prohlášení o bezdlužnosti
+Prohlašuji, že k dnešnímu dni nemám nedoplatky na daních, na zdravotním a sociálním pojištění a že nebyl prohlášen konkurz, není vedena
+exekuce na můj majetek ani nejsem evidován ke dni podpisu tohoto prohlášení v insolvenčním rejstříku.
+Informace o zpracování osobních údajů
+Beru na vědomí, že osobní údaje ČSOBS zpracovává a nakládá s nimi tak, jak je uvedeno v Informačním memorandu o zpracování osobních
+údajů dostupném na http://www.csobstavebni.cz/osobni-udaje, se kterým jsem se seznámil.
+Předsmluvní odpovědnost
+Beru na vědomí, že k čerpání meziúvěru/úvěru je třeba s ČSOBS uzavřít písemně Úvěrovou smlouvu a splnit podmínky tam uvedené. ČSOBS není
+povinna Úvěrovou smlouvu uzavřít, dokud neproběhnou veškeré potřebné interní procesy podle vnitřních pravidel ČSOBS, a proto nelze spoléhat
+na to, že ČSOBS Úvěrovou smlouvu uzavře a že poskytne meziúvěr/úvěr. Beru na vědomí, že se některé parametry meziúvěru/úvěru v Úvěrové
+smlouvě mohou lišit od údajů uvedených v této žádosti a že Evropský standardizovaný informační přehled s aktuálními údaji obdržím před
+uzavřením Úvěrové smlouvy.
+Informace o ověřování prostřednictvím BRKI a NRKI
+Za účelem posouzení schopnosti žadatelů o úvěr, resp. dlužníků z úvěru, splácet využívá ČSOBS Bankovní registr klientských informací (BRKI). V rámci BRKI
+si banky vyměňují informace o bonitě, důvěryhodnosti a platební morálce klientů. BRKI provozuje společnost CBCB (Czech Banking Credit Bureau). BRKI
+sdílí data s Nebankovním registrem klientských informací (NRKI), který shromažďuje informace od leasingových a úvěrových společností. NRKI provozuje
+zájmové sdružení CNCB – Czech Non-Banking Credit Bureau. K využívání registrů není potřeba souhlas.
+Více informací je uvedeno v Informačním memorandu bankovního registru klientských informací (BRKI) a nebankovního registru klientských informací
+(NRKI). Aktuální znění Informačního memoranda je k dispozici na internetové stránce www.csobstavebni.cz, na informační lince provozovatele registrů
+844 111 777 a na internetových stránkách provozovatele registrů www.cbcb.cz, www.cncb.cz. BRKI a NRKI jmenovaly pověřence pro ochranu
+osobních údajů, které lze kontaktovat na adrese poverenec@cbcb.cz resp. poverenec@cncb.cz.
+Informace o registru klientských informací SOLUS
+Beru na vědomí, že podle § 20z zákona č. 634/199 2Sb., o ochraně spotřebitele,v e znění pozdějích předpisů mohou byt́ moje osobní údaje vedenyv databázích (dále
+též jen "registr") sloužících k vzájemnémui nformování o identifikačních údajích spotřebitelů a o záležitostech, které vypovídají o úvěruschopnosti (bonitě), platební
+morálce a důvěryhodnost ispotřebitelů. K tomuto informování není třeba souhlasu spotřebitele a vztahuje se i na vztah vyzniklé v rámci podnikání nebo jiné samostatn ě
+vyd́ ělečné činnosti spotřebitele .ČSOBS se účastnír egistrů SOLUS, zájmového sdružení právnickyćh osob. Podrobnější informace jsou obsaženy v dokumentu "Poučen í
+o registrech Sdružení SOLUS", jehož obsahem je: (I) vysvětlení pojmu Informačn síoubor, a to zvlášť pro Pozitivn ríegistr, Registr FO aR egistr IČ, (II) definice dalších myćh
+osobních údajů, které mohou vzniknout při zpracování, (III) popis fungování Pozitvního registru, Registru FO a Registru IČ, (IV) identifikace subjektů či osob, které
+mohou mít přístup k myḿ osobním údajům př ijejich zpracování, a (V) poučen ío myćh právech (podle nařízení 2016/679 ,právo na přístup k údajům :čl. 15, právo na
+opravu: čl. 16, právo na vyḿ az: čl. 17, právon a dočasné omezení zpracování :čl. 18, právo na námitku č:l. 21) v souvislosti se zpracováním myćh osobních údajů v rámc i
+registrů SOLUS. Aktuální znění Poučení mohu kdykoli získat na internetové stránce www.csobstavebni.cz a na informační lince sdružení SOLUS 222 368 707
+a www.solus.cz. SOLUS jmenoval pověřence ochrany údajů, kterého lze kontaktovat na adrese poverenec@solus.cz.
+Beru na vědomí, že ČSOBbS ude vyhledávat o mně údaje v databází cBhRKI, NRKI a/nebo SOLU Suvedenyćh vyš́e, kde také informac eo tomto vyhledáván íbude evidována.
+Společný zástupce pro doručování
+Beru na vědomí, že ČSOBS může doručovat veškeré dokumenty související s touto žádostí pouze Osobě 1 (osoba uvedená vyš́e), která je společnyḿ
+zástupcem účastníků pro doručování.
+Prohlášení o úplnosti a pravdivosti údajů
+Beru na vědomí, že jsem povinen poskytnout ČSOBS podklady uvedené v části VI. této žádosti. Prohlašuji, že veškeré mnou v souvislosti s touto žádostí
+poskytnuté informace a podklady jsou úplné a pravdivé.S ouhlasím, že pokud to bude k posouzením é úvěruschopnosti nezbytné, poskytnuté informace
+a podklady na žádost iČSOBS vysvětlím, popřípadě doplním. Podklady dle část iVI. budou dodány bez zbytečného odkladu. Beru navě domí, že pokud výše
+uvedené nesplním a ČSOBS nebude schopna posoudit mou úvěruschopnost, pak mi úvěr neposkytne.
+V případě zprostředkování úvěru potvrzuji, že jsem převzal formulář s informacemi o osobě zprostředkovatele podle § 93 zákona o spotřebitelském úvěru.
+Prohlášení zástupce
+Jednám-li jako zástupce, prohlašuji, že mé oprávnění k zastoupení je plně dostatečné k podpisu této žádosti.
+Informace k elektronické podobě
+Dokument lze vyhotovit a podepsat elektronicky. Elektronické dokumenty se zasílají na výše uvedený e-mail. Pokud si elektronickou podobu nepřejete,
+požádejte zprostředkovatele o vytištěný formulář.
+Doplňující informace
+Podpisy všech osob, případně zástupců, pokud jednají za osoby žádající o úvěr
+Osoba 01 Podpis:
+##SIG{x:'+1.5mm',y:'-4.4mm',w:'+28mm',h:'+7.56mm'}
+V * Dne *
+* Pokud je dokument podepsán elektronicky, není vyplněno.
+Provedení identifikace dle zákona č. 253/2008 Sb. a potvrzení podmínek marketingové akce (pokud je výše uvedena)
+Potvrzuji, že jsem ověřil/a totožnost a správnost údajů zde uvedené fyzické osoby/osob/zástupce/zástupců včetně shody podoby s vyobraze-
+ním dle výše uvedeného platného průkazu totožnosti. U právnické osoby jsem též ověřil/a identifikační údaje z dokladu o existenci právnické
+osoby. Potvrzuji za ČSOB Stavební spořitelnu, a.s., ujednání o použití podmínek marketingové akce, pokud je výše uvedena, a dále ujednání o
+úhradě za provedení odhadu/ů nemovitosti/í.
+##SIG{x:'+116mm',y:'-8.89mm',w:'+50mm',h:'+13.5mm'}
+V * Dne *
+Podpis a razítko zprostředkovatele
+* Pokud je dokument podepsán elektronicky, není vyplněno.
+Razítko se použije v případě, že dokument není podepsán elektronicky a identifikaci osob neprovádí stejná osoba zprostředkovatele uvedená
+níže.
+AZ smlouvy stavebního spoření 500
+Zprostředkovatel Kryštof Rožek
+Číslo provizního účtu 3728764
+Telefon 723 594 429
+E-mail krystof.rozek@csobstavebni-oz.cz
+Tipař
+Číslo provizního účtu
+VI. Checklist minimálně požadovaných podkladů
+Filip Nezmar, RČ: 9503230187, Dlužník adresát
+– Potvrzení o příjmu, kompletně vyplněné, bez potvrzení zaměstnavatele 1
+– Daňové přiznání za poslední uzavřené zdaňovací období 1
+– Potvrzení finančního úřadu, že neeviduje žádné nedoplatky 1
+– Kalkulátor výpočtu příjmů 1
+Účelovost:
+– Výpis z katastru nemovitostí financované nemovitosti 1
+– Kupní smlouva nebo smlouva o budoucí kupní smlouvě 1
+– Průkaz energetické náročnosti budovy (PENB) 1
+Zajištění:
+– Výpis z katastru nemovitostí zastavované nemovitosti 1
+– Odhad 1
+Pozn.: V průběhu schvalování Vaší žádosti si ČSOBS může vyžádat doplňující informace nebo doklady; o případné potřebě doplnit
+informace nebo doklady Vás budeme informovat.
