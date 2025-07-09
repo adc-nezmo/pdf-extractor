@@ -62,23 +62,28 @@ def replace_in_table(table, mapping):
             for paragraph in cell.paragraphs:
                 replace_in_paragraph(paragraph, mapping)
 
-# Načti šablonu
-TEMPLATE = "pop_jmeno.docx"  # uprav dle skutečného názvu šablony
-OUTPUT = "vyplnena.docx"
-
-doc = Document(TEMPLATE)
-
-# Nahraď ve všech odstavcích
-for paragraph in doc.paragraphs:
-    replace_in_paragraph(paragraph, mapping)
-
-# Nahraď ve všech tabulkách
-for table in doc.tables:
-    replace_in_table(table, mapping)
-
-# Ulož výstup
-print(f"✅ Ukládám vyplněný dokument do {OUTPUT}")
-doc.save(OUTPUT)
+# Kód pro spuštění pouze pokud je soubor spuštěn přímo
+if __name__ == "__main__":
+    # Načti šablonu
+    TEMPLATE = "pop_jmeno.docx"  # uprav dle skutečného názvu šablony
+    OUTPUT = "vyplnena.docx"
+    
+    try:
+        doc = Document(TEMPLATE)
+        
+        # Nahraď ve všech odstavcích
+        for paragraph in doc.paragraphs:
+            replace_in_paragraph(paragraph, mapping)
+        
+        # Nahraď ve všech tabulkách
+        for table in doc.tables:
+            replace_in_table(table, mapping)
+        
+        # Ulož výstup
+        print(f"✅ Ukládám vyplněný dokument do {OUTPUT}")
+        doc.save(OUTPUT)
+    except Exception as e:
+        print(f"❌ Chyba při zpracování šablony: {e}")
 
 # === Funkce pro Streamlit ===
 def fill_document(template_name, output_filename=None):
