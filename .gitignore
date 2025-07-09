@@ -30,6 +30,13 @@ data/*.json
 *.pdf
 !templates/*.docx
 
+# Test files (velké soubory)
+zadost.pdf
+vyplnena.docx
+pop_jmeno.docx
+extrahovany_text.txt
+data.json
+
 # IDE
 .vscode/
 .idea/
